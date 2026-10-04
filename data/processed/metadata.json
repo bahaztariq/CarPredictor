@@ -1,0 +1,67 @@
+{
+  "target": "selling_price",
+  "feature_names": [
+    "year",
+    "km_driven",
+    "transmission",
+    "owner",
+    "fuel_Other",
+    "fuel_Petrol",
+    "seller_type_Individual",
+    "seller_type_Trustmark Dealer"
+  ],
+  "cols_scaled": [
+    "year",
+    "km_driven",
+    "owner"
+  ],
+  "ordre_owner": {
+    "Test Drive Car": 0,
+    "First Owner": 1,
+    "Second Owner": 2,
+    "Third Owner": 3,
+    "Fourth & Above Owner": 4
+  },
+  "fuels_regroupes": [
+    "CNG",
+    "LPG",
+    "Electric"
+  ],
+  "seuil_km_max": 300000,
+  "imputations": {
+    "year": {
+      "strategie": "mediane",
+      "valeur": 2013.0,
+      "n_imputes": 43
+    },
+    "km_driven": {
+      "strategie": "mediane",
+      "valeur": 60000.0,
+      "n_imputes": 170
+    },
+    "fuel": {
+      "strategie": "mode",
+      "valeur": "Diesel",
+      "n_imputes": 84
+    },
+    "seller_type": {
+      "strategie": "mode",
+      "valeur": "Individual",
+      "n_imputes": 65
+    },
+    "transmission": {
+      "strategie": "mode",
+      "valeur": "Manual",
+      "n_imputes": 0
+    },
+    "owner": {
+      "strategie": "mode",
+      "valeur": "First Owner",
+      "n_imputes": 86
+    }
+  },
+  "test_size": 0.2,
+  "random_state": 42,
+  "n_train": 2957,
+  "n_test": 740
+}

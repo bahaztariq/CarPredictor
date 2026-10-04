@@ -1,0 +1,742 @@
+name,year,km_driven,fuel_Diesel,fuel_Electric,fuel_LPG,fuel_Petrol,seller_type_Individual,seller_type_Trustmark Dealer,transmission_Manual,owner_Fourth & Above Owner,owner_Second Owner,owner_Test Drive Car,owner_Third Owner
+Renault KWID RXT Optional,0.7193524610774805,-0.8206110793586568,False,False,False,True,True,False,True,False,False,False,False
+Tata Manza Club Class Quadrajet90 VX,0.007601071418739302,-0.17494315927199514,True,False,False,False,True,False,True,False,False,False,False
+Honda BRV i-VTEC V MT,0.956602924297061,-0.5338835490570143,False,False,False,True,True,False,True,False,False,False,False
+Maruti SX4 ZDI Leather,-0.22964939180084112,-0.18343878979945122,True,False,False,False,True,False,True,False,True,False,False
+Hyundai i20 1.2 Spotz,0.956602924297061,-0.3958295529858531,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Verna 1.6 CRDI,-0.22964939180084112,0.45373349975975436,True,False,False,False,False,False,True,False,True,False,False
+Maruti Wagon R VXI BS IV,0.956602924297061,-1.0967190715009791,False,False,False,True,True,False,True,False,False,False,False
+Ford Endeavour 2.5L 4X2 MT,-1.1786512446791628,0.878515026132558,True,False,False,False,True,False,True,False,False,False,True
+Hyundai Creta 1.6 CRDi SX Option,0.7193524610774805,-0.28963417139265213,True,False,False,False,True,False,True,False,False,False,False
+Chevrolet Sail Hatchback LT ABS,0.007601071418739302,0.2413427365733525,True,False,False,False,True,False,True,False,False,False,False
+Ford Fiesta 1.4 ZXi TDCi ABS,-0.9414007814595824,,True,False,False,False,True,False,True,False,True,False,False
+Renault KWID RXT Optional,0.956602924297061,-0.6082203161722549,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift ZDi BSIV,0.956602924297061,0.02895197338695065,True,False,False,False,True,False,True,False,False,False,False
+Honda Civic 1.8 S MT,-1.4159017078987433,0.02895197338695065,False,False,False,True,True,False,True,False,False,False,True
+Hyundai EON Magna Plus,1.1938533875166413,-0.8206110793586568,False,False,False,True,True,False,True,False,False,False,False
+Renault KWID 1.0 RXT Optional,0.956602924297061,0.02895197338695065,False,False,False,False,True,False,True,False,False,False,False
+Volkswagen Vento Celeste 1.5 TDI Highline AT,0.7193524610774805,0.02895197338695065,True,False,False,False,True,False,False,False,False,False,False
+Chevrolet Spark 1.0 LS,-0.46689985502042153,-0.18343878979945122,False,False,False,True,True,False,True,False,False,False,True
+Audi A6 2.7 TDI,-0.704150318240002,-0.4807858582604138,True,False,False,False,True,False,False,False,False,False,False
+Maruti Alto LX,-1.1786512446791628,-0.3108732477112923,False,False,False,True,False,False,True,False,False,False,False
+Hyundai Santro LE zipPlus,-2.3649035607770648,0.2413427365733525,False,False,False,True,True,False,True,False,False,False,True
+Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,-1.6531521711183237,7.037847158538212,True,False,False,False,True,False,True,False,False,False,True
+Ford Figo Diesel Titanium,-0.704150318240002,0.45373349975975436,True,False,False,False,True,False,True,False,False,False,True
+Maruti Omni E 8 Str STD,-1.4159017078987433,0.45373349975975436,False,False,False,True,True,False,True,True,False,False,False
+Hyundai i20 Asta 1.2,0.7193524610774805,-0.6082203161722549,False,False,False,True,True,False,True,False,False,False,False
+Chevrolet Cruze LTZ AT,-0.22964939180084112,1.09090578931896,True,False,False,False,True,False,False,False,False,False,True
+Maruti Alto 800 LXI,0.007601071418739302,0.39001627080383383,False,False,False,True,True,False,True,False,False,False,False
+BMW 3 Series 320d Sport,0.007601071418739302,,True,False,False,False,False,False,False,False,False,False,False
+Maruti 800 DUO AC LPG,,-0.3958295529858531,False,False,True,False,True,False,True,False,True,False,False
+Chevrolet Beat Diesel LS,-0.22964939180084112,-0.2868730914712289,True,False,False,False,False,False,True,False,False,False,False
+Maruti Swift VDI,-0.22964939180084112,-0.6082203161722549,True,False,False,False,True,False,True,False,False,False,False
+Volkswagen Vento 1.5 TDI Highline,0.48210199785790014,0.6236461103088758,True,False,False,False,False,False,True,False,False,False,False
+BMW X1 sDrive 20d xLine,0.956602924297061,-1.18167537677554,True,False,False,False,True,False,False,False,False,False,False
+Hyundai Verna 1.6 VTVT AT S Option,0.7193524610774805,0.2413427365733525,False,False,False,True,True,False,False,False,False,False,False
+Nissan Sunny XL,0.7193524610774805,-1.0437275760859719,False,False,False,True,False,False,True,False,False,False,False
+Hyundai i10 Magna 1.2,-0.9414007814595824,0.2413427365733525,False,False,False,True,True,False,True,False,True,False,False
+Honda Amaze VX Petrol BSIV,1.1938533875166413,-0.6294593924908951,False,False,False,True,False,False,True,False,False,False,False
+Nissan Sunny Diesel XL,-0.22964939180084112,0.878515026132558,True,False,False,False,True,False,True,False,False,False,False
+Mercedes-Benz E-Class E 200 CGI Elegance,-0.704150318240002,1.0696667130003197,False,False,False,True,False,False,False,False,False,False,False
+Hyundai Creta 1.6 CRDi AT SX Plus,0.7193524610774805,0.11390827866151139,True,False,False,False,True,False,False,False,False,False,False
+Tata Tiago 1.2 Revotron XZ,1.1938533875166413,,False,False,False,True,True,False,True,False,False,False,False
+Renault KWID 1.0 RXT Optional,1.1938533875166413,-0.7144156977654559,False,False,False,True,True,False,True,False,False,False,False
+Hyundai i20 Asta Option 1.4 CRDi,0.7193524610774805,-0.18343878979945122,True,False,False,False,True,False,True,False,False,False,False
+Toyota Etios VD,0.2448515346383197,1.8767516131086468,True,False,False,False,True,False,True,False,True,False,False
+Ford Figo Diesel Titanium,0.2448515346383197,1.1971011709121608,True,False,False,False,True,False,True,False,True,False,False
+Toyota Fortuner 4x2 AT,0.956602924297061,-0.4561060515781539,True,False,False,False,False,True,False,False,False,False,False
+Maruti Alto LX,-2.1276530975574843,1.09090578931896,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Grand i10 1.2 Kappa Asta,1.4311038507362217,,False,False,False,True,True,False,True,False,False,False,False
+Honda Amaze VX i-DTEC,0.2448515346383197,,True,False,False,False,True,False,True,False,True,False,False
+Honda City 1.5 V MT,-0.22964939180084112,-0.4595467819417736,False,False,False,True,False,False,True,False,True,False,False
+Honda Mobilio S i DTEC,0.7193524610774805,-0.6931766214468157,True,False,False,False,True,False,True,False,True,False,False
+Ford Figo 1.5D Titanium Opt MT,0.48210199785790014,-0.3463849833160587,True,False,False,False,False,False,True,False,False,False,False
+Honda Civic 1.8 V AT,-1.4159017078987433,-0.18343878979945122,False,False,False,True,True,False,False,False,False,False,False
+Maruti Wagon R AMT VXI,1.1938533875166413,-0.9480455372704979,False,False,False,False,True,False,False,False,False,False,False
+Mercedes-Benz New C-Class C 220 CDI Grand Edition,0.2448515346383197,-0.4807858582604138,True,False,False,False,True,False,False,False,False,False,False
+Mahindra Bolero Power Plus Plus AC BSIV PS,0.956602924297061,,True,False,False,False,True,False,True,False,False,False,False
+Mahindra Xylo D2,-0.704150318240002,0.02895197338695065,True,False,False,False,True,False,True,False,False,False,False
+Maruti Alto LXi BSIII,-1.1786512446791628,-0.6082203161722549,False,False,False,True,True,False,True,False,True,False,False
+Hyundai Verna 1.6 SX,0.2448515346383197,0.02895197338695065,True,False,False,False,True,False,True,False,True,False,False
+Mahindra XUV500 W8 2WD,0.007601071418739302,-0.5659970324507982,True,False,False,False,False,False,True,False,False,False,False
+Maruti Swift VDI BSIV,-0.46689985502042153,1.303296552505362,True,False,False,False,True,False,True,False,True,False,False
+Hyundai Xcent 1.1 CRDi Base,0.48210199785790014,0.07143012602423102,True,False,False,False,True,False,True,False,False,False,False
+Maruti Ertiga 1.5 VDI,1.6683543139558021,0.45373349975975436,True,False,False,False,True,False,True,False,False,False,False
+Maruti Alto K10 LXI,0.2448515346383197,-0.6082203161722549,False,False,False,True,True,False,True,False,False,False,False
+Tata Indigo CR4,0.007601071418739302,-0.18343878979945122,True,False,False,False,True,False,True,False,False,False,False
+Maruti Swift VDI BSIV,-0.46689985502042153,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Hyundai i20 1.4 CRDi Era,-0.46689985502042153,0.02895197338695065,True,False,False,False,True,False,True,False,False,False,False
+Tata Indigo TDI,0.007601071418739302,0.02895197338695065,True,False,False,False,True,False,True,False,True,False,False
+Ford Ecosport 1.5 Petrol Titanium Plus,1.4311038507362217,-1.3480623006557673,False,False,False,True,False,False,True,False,False,True,False
+Mercedes-Benz E-Class E250 CDI Elegance,-0.46689985502042153,-0.40432518351330915,True,False,False,False,False,False,False,False,False,False,False
+Maruti Ciaz VXi Plus,0.48210199785790014,-0.9480455372704979,False,False,False,True,False,False,True,False,False,False,False
+Hyundai EON Era Plus,1.1938533875166413,-1.0330018425450587,False,False,False,False,True,False,True,False,False,False,False
+Honda Brio S MT,0.007601071418739302,-0.23965862481489178,False,False,False,True,False,True,True,False,False,False,False
+Maruti Alto 800 LXI,0.7193524610774805,-0.3533514003485727,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Elantra CRDi SX,0.2448515346383197,-0.8206110793586568,True,False,False,False,True,False,True,False,True,False,False
+Maruti Swift Vdi BSIII,-0.9414007814595824,0.8572759498139179,True,False,False,False,True,False,True,False,True,False,False
+Chevrolet Spark 1.0,-0.704150318240002,0.02895197338695065,False,False,False,True,True,False,True,False,False,False,False
+Ford Ecosport 1.5 Diesel Titanium Plus,1.4311038507362217,-1.3178178559780236,True,False,False,False,False,False,True,False,False,False,False
+Maruti Eeco 5 STR With AC Plus HTR CNG,0.956602924297061,-1.1583123928250358,False,False,False,False,False,False,True,False,False,False,False
+Maruti Wagon R LXI LPG BSIV,-0.22964939180084112,0.2413427365733525,False,False,True,False,True,False,True,False,False,False,False
+Renault KWID RXE,0.7193524610774805,-1.0330018425450587,False,False,False,True,True,False,True,False,False,False,False
+Maruti Ciaz ZDi Plus SHVS,0.956602924297061,-0.3958295529858531,True,False,False,False,True,False,True,False,False,False,False
+Maruti Ciaz ZXi Plus,0.7193524610774805,-1.3303489110060212,False,False,False,False,False,False,True,False,False,False,False
+Chevrolet Enjoy 1.3 TCDi LS 8,0.007601071418739302,-1.0330018425450587,True,False,False,False,False,False,True,False,False,False,False
+Chevrolet Beat Diesel LT,0.007601071418739302,-0.4807858582604138,True,False,False,False,True,False,True,False,False,False,False
+Maruti SX4 Zxi BSIII,-1.1786512446791628,-1.2453926057314606,False,False,False,True,True,False,True,False,False,False,False
+Hyundai EON Magna Optional,0.48210199785790014,-1.0223823043857385,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Verna Transform CRDi VGT ABS,-0.704150318240002,1.09090578931896,True,False,False,False,True,False,True,False,True,False,False
+Chevrolet Enjoy TCDi LT 7 Seater,0.2448515346383197,0.0504883967740518,True,False,False,False,False,False,True,False,False,False,False
+Ford Figo Diesel EXI,-0.22964939180084112,1.8563620998427524,True,False,False,False,False,False,True,False,False,False,False
+Tata New Safari 4X4,-1.4159017078987433,0.2152399117777437,True,False,False,False,False,False,True,False,True,False,False
+Honda Brio 1.2 VX MT,1.1938533875166413,-0.9905236899077783,False,False,False,True,True,False,True,False,False,False,False
+Mahindra Bolero SLX,-1.1786512446791628,0.6661242629461562,True,False,False,False,True,False,True,False,False,False,False
+Nissan Sunny XL,-0.22964939180084112,-0.6082203161722549,False,False,False,True,True,False,True,False,False,False,False
+Maruti Omni MPI STD BSIV,0.2448515346383197,1.09090578931896,False,False,False,True,True,False,True,False,False,False,True
+Hyundai Xcent 1.1 CRDi Base,0.48210199785790014,-0.18343878979945122,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Santro Xing XG,-2.3649035607770648,0.878515026132558,False,False,False,True,True,False,True,False,True,False,False
+Tata Zest Revotron 1.2T XE,1.1938533875166413,-0.502024934579054,False,False,False,True,True,False,True,False,False,False,False
+Mahindra XUV500 W8 4WD,0.48210199785790014,-0.3321123240299325,True,False,False,False,False,False,True,False,False,False,False
+Hyundai Verna 1.6 SX,-0.22964939180084112,1.09090578931896,True,False,False,False,True,False,True,False,False,False,True
+Mahindra Bolero Power Plus SLX,1.4311038507362217,-0.7144156977654559,True,False,False,False,True,False,True,False,False,False,False
+Volkswagen Ameo 1.5 TDI Highline,0.956602924297061,-0.26839509507401194,True,False,False,False,False,False,True,False,False,False,False
+Tata Xenon XT EX 4X2,-0.22964939180084112,0.2413427365733525,True,False,False,False,True,False,True,False,True,False,False
+Tata Indigo LX,-0.22964939180084112,0.45373349975975436,True,False,False,False,True,False,True,False,True,False,False
+Hyundai Verna CRDi 1.6 SX Option,1.4311038507362217,-1.2666316820501007,True,False,False,False,False,False,True,False,False,False,False
+Hyundai Creta 1.6 E Plus,1.1938533875166413,-1.19229491493486,False,False,False,True,True,False,True,False,False,False,False
+Chevrolet Beat LT,-0.704150318240002,0.02895197338695065,False,False,False,True,True,False,True,False,True,False,False
+Maruti Alto 800 VXI,1.6683543139558021,-1.4365442925992222,False,False,False,True,True,False,True,False,False,False,False
+Hyundai i20 Asta 1.2,0.2448515346383197,-0.966693446278264,False,False,False,True,False,False,True,False,True,False,False
+Nissan Terrano XL 85 PS,0.2448515346383197,-0.8843283083145773,True,False,False,False,False,False,True,False,False,False,False
+Mahindra Scorpio SLE BSIV,-0.22964939180084112,0.45373349975975436,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Creta 1.6 CRDi SX,0.7193524610774805,0.02895197338695065,True,False,False,False,True,False,True,False,True,False,False
+Maruti Eeco Smiles 5 Seater AC,0.2448515346383197,-0.8206110793586568,False,False,False,True,False,False,True,False,False,False,False
+Ford Figo Diesel LXI,-0.46689985502042153,0.02895197338695065,True,False,False,False,True,False,True,False,True,False,False
+Toyota Innova 2.5 G1 BSIV,-0.22964939180084112,0.2413427365733525,True,False,False,False,True,False,True,False,False,False,False
+Maruti Baleno Alpha 1.3,1.4311038507362217,-0.8206110793586568,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Elite i20 Sportz Plus Dual Tone BSIV,1.4311038507362217,-1.3473401720609335,False,False,False,True,True,False,True,False,False,False,False
+Mahindra Jeep CL 500 MDI,-4.025656803314128,-0.7144156977654559,True,False,False,False,True,False,True,False,True,False,False
+Maruti Eeco 7 Seater Standard BSIV,1.1938533875166413,-1.0330018425450587,False,False,False,True,True,False,True,False,False,False,False
+Maruti Vitara Brezza ZDi Plus,0.7193524610774805,-0.07724340820625028,True,False,False,False,True,False,True,False,False,False,False
+Land Rover Range Rover Evoque 2.2L Dynamic,-0.22964939180084112,1.7068390025595253,True,False,False,False,True,False,False,False,True,False,False
+Audi A6 2.0 TDI  Design Edition,0.007601071418739302,-0.3958295529858531,True,False,False,False,False,False,False,False,False,False,False
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,1.4311038507362217,-1.3515879873246615,False,False,False,True,True,False,True,False,False,False,False
+Maruti SX4 Celebration Petrol,-0.22964939180084112,0.45373349975975436,False,False,False,True,True,False,True,False,True,False,False
+Chevrolet Tavera Neo 3 LT 9 Seats BSIII,0.7193524610774805,0.6661242629461562,True,False,False,False,True,False,True,False,True,False,False
+Maruti Zen LX - BS III,-1.6531521711183237,0.7871869979624053,False,False,False,True,True,False,True,False,False,False,False
+Chevrolet Cruze LTZ,-0.704150318240002,-0.18343878979945122,True,False,False,False,True,False,True,False,False,False,True
+Fiat Punto 1.3 Emotion,-0.704150318240002,0.13514735498015157,True,False,False,False,True,False,True,False,False,False,True
+Toyota Corolla Altis Diesel D4DG,-0.704150318240002,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Honda City S,-0.22964939180084112,-0.5933529627492068,False,False,False,True,True,False,True,False,False,False,False
+Mahindra Xylo Celebration Edition BSIV,-0.704150318240002,3.639594947555782,True,False,False,False,True,False,True,False,False,False,True
+Honda Brio 1.2 S MT,-0.22964939180084112,-0.4595467819417736,False,False,False,True,False,False,True,False,False,False,False
+Maruti SX4 VDI,-0.46689985502042153,0.45373349975975436,True,False,False,False,True,False,True,False,False,False,True
+Tata Indica Vista Aqua 1.3 Quadrajet,-0.9414007814595824,1.09090578931896,True,False,False,False,True,False,True,False,True,False,False
+Mahindra Scorpio 2.6 Turbo 9 Str,-1.4159017078987433,0.6661242629461562,True,False,False,False,True,False,True,False,False,False,True
+Hyundai EON Magna Plus,1.1938533875166413,-1.0330018425450587,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift AMT VXI,1.4311038507362217,-0.9268064609518577,False,False,False,True,True,False,False,False,False,False,False
+Tata Indigo CR4,-0.46689985502042153,0.45373349975975436,True,False,False,False,True,False,True,False,False,False,False
+Maruti Wagon R LXI,1.6683543139558021,1.09090578931896,False,False,False,True,True,False,True,False,False,False,False
+Hyundai i10 Sportz 1.1L,0.2448515346383197,-0.6601498577713302,False,False,False,True,False,False,True,False,False,False,False
+Maruti Swift Dzire VDI,0.48210199785790014,-0.1582280062092253,True,False,False,False,False,False,True,False,False,False,False
+Maruti Esteem Lxi,-1.890402634337904,-0.18343878979945122,False,False,False,True,True,False,True,False,False,False,True
+Volkswagen Polo Diesel Highline 1.2L,0.007601071418739302,0.984710407725759,True,False,False,False,True,False,True,False,False,False,True
+Maruti Swift VXI,1.4311038507362217,-0.6082203161722549,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Verna 1.6 SX VTVT (O),0.007601071418739302,0.43249442344111416,False,False,False,True,True,False,True,False,True,False,False
+Tata New Safari 4X4 EX,-0.22964939180084112,1.558165468329044,True,False,False,False,True,False,True,False,False,False,False
+Mahindra TUV 300 T8 AMT,0.7193524610774805,,True,False,False,False,True,False,False,False,True,False,False
+Mercedes-Benz GLS 2016-2020 350d 4MATIC,0.7193524610774805,0.18505918432895602,True,False,False,False,False,False,False,False,False,False,False
+Renault Duster 110PS Diesel RxZ,-0.22964939180084112,0.6661242629461562,True,False,False,False,True,False,True,False,False,False,False
+Maruti Omni MPI STD BSIV,1.1938533875166413,-1.2453926057314606,False,False,False,True,True,False,True,False,False,False,False
+Ford Figo Diesel Titanium,-0.704150318240002,0.7151228120132591,True,False,False,False,False,False,True,False,False,False,False
+Honda City i DTEC VX,0.2448515346383197,0.6661242629461562,True,False,False,False,False,False,True,False,False,False,False
+Hyundai i10 Magna 1.1L,0.2448515346383197,-0.18343878979945122,False,False,False,True,True,False,True,True,False,False,False
+Audi Q3 35 TDI Quattro Technology,0.956602924297061,-0.6931766214468157,True,False,False,False,False,False,False,False,False,False,False
+Maruti Swift Dzire LDI,1.1938533875166413,0.2413427365733525,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Verna VTVT 1.6 AT SX Option,0.956602924297061,-1.2453926057314606,False,False,False,True,True,False,False,False,False,False,False
+Renault Duster 110PS Diesel RxZ,-0.22964939180084112,0.878515026132558,True,False,False,False,True,False,True,False,True,False,False
+Hyundai Verna SX,-1.4159017078987433,-0.07724340820625028,False,False,False,True,False,False,True,False,False,False,False
+Hyundai Santro Xing XS,-0.9414007814595824,0.6661242629461562,False,False,False,True,True,False,True,False,True,False,False
+Mahindra Scorpio SLE BSIV,-0.22964939180084112,1.6218826972849647,True,False,False,False,True,False,True,False,False,False,False
+Maruti S-Cross Sigma DDiS 200 SH,0.956602924297061,-0.5869812398536147,True,False,False,False,True,False,True,False,False,False,False
+Maruti Wagon R VXI BS IV,0.2448515346383197,0.02895197338695065,False,False,False,True,True,False,True,False,False,False,True
+Skoda Superb Ambition 2.0 TDI CR AT,0.007601071418739302,,True,False,False,False,False,False,False,False,False,False,False
+Tata Indica GLS BS IV,-1.1786512446791628,1.09090578931896,False,False,False,True,True,False,True,False,False,False,True
+Ford Ecosport 1.5 DV5 MT Titanium,0.2448515346383197,0.878515026132558,True,False,False,False,True,False,True,False,False,False,False
+Mahindra Scorpio 2.6 CRDe,-1.890402634337904,3.2360524975016185,True,False,False,False,True,False,True,False,False,False,True
+Ford Ecosport 1.5 DV5 MT Titanium,0.2448515346383197,0.13514735498015157,True,False,False,False,True,False,True,False,True,False,False
+Fiat Linea T Jet Plus,-0.46689985502042153,-1.0330018425450587,False,False,False,True,True,False,True,False,False,False,False
+Maruti Omni LPG CARGO BSIII W IMMOBILISER,-0.9414007814595824,0.45373349975975436,False,False,True,False,True,False,True,False,True,False,False
+Tata Safari Storme EX,0.2448515346383197,0.20570356651067428,True,False,False,False,True,False,True,False,False,False,False
+Chevrolet Sail 1.3 LS,0.007601071418739302,-0.26839509507401194,True,False,False,False,False,False,True,False,False,False,False
+Mahindra Renault Logan 1.5 DLS,-1.1786512446791628,3.066139886952497,True,False,False,False,True,False,True,False,False,False,False
+Datsun GO Plus T,0.956602924297061,-1.2417607236809731,False,False,False,True,False,False,True,False,False,False,False
+Honda Civic 1.8 V AT,-1.4159017078987433,-0.3108732477112923,False,False,False,True,True,False,False,False,True,False,False
+Maruti S-Cross Alpha DDiS 200 SH,0.956602924297061,-0.8206110793586568,True,False,False,False,True,False,True,False,False,False,False
+Volkswagen Polo SR Petrol 1.2L,0.007601071418739302,-0.3958295529858531,False,False,False,True,True,False,True,False,False,False,False
+Mahindra Bolero B6,0.7193524610774805,-0.26839509507401194,True,False,False,False,False,False,True,False,False,False,False
+Maruti Alto 800 LXI,0.7193524610774805,-0.18343878979945122,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift Ldi BSIV,-0.46689985502042153,1.3670137814612824,True,False,False,False,True,False,True,False,True,False,False
+Mahindra XUV500 W6 2WD,0.7193524610774805,-1.3515879873246615,True,False,False,False,True,False,True,False,False,False,False
+Maruti Zen LXI,-3.551155876874967,0.02895197338695065,False,False,False,True,True,False,True,False,True,False,False
+Mahindra Scorpio LX,0.2448515346383197,0.02895197338695065,True,False,False,False,True,False,True,False,False,False,True
+Maruti Swift VDI,0.007601071418739302,-0.18343878979945122,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Verna 1.4 VTVT,0.956602924297061,0.2535976836092079,False,False,False,True,True,False,True,False,False,False,False
+Hyundai i10 Magna 1.1 iTech SE,0.48210199785790014,-0.4383077056231334,False,False,False,True,False,False,True,False,False,False,False
+Maruti Alto 800 LXI,0.48210199785790014,-0.7144156977654559,False,False,False,True,False,False,True,False,False,False,False
+Maruti Omni MPI STD BSIV,-0.22964939180084112,0.45373349975975436,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift Dzire ZXI,0.007601071418739302,-0.3958295529858531,False,False,False,True,True,False,True,False,False,False,False
+Maruti Wagon R LXI,-0.704150318240002,-0.3745904766672129,False,False,False,True,False,False,True,False,False,False,False
+Maruti 800 AC,-0.22964939180084112,1.09090578931896,False,False,False,True,True,False,True,False,False,False,False
+Hyundai i20 Asta Option 1.4 CRDi,0.7193524610774805,-0.24715601875537177,True,False,False,False,True,False,True,False,False,False,False
+Maruti Wagon R VXI Plus Optional,0.956602924297061,-1.0542409188636988,False,False,False,True,True,False,True,False,False,False,False
+Maruti Alto K10 VXI AGS,0.48210199785790014,-1.3636517826736492,False,False,False,True,False,False,False,False,True,False,False
+Mahindra Bolero Power Plus SLX,1.1938533875166413,-0.5232640108976941,True,False,False,False,True,False,True,False,False,False,False
+Hyundai i20 Magna 1.2,0.7193524610774805,-0.9268064609518577,False,False,False,True,True,False,True,False,False,False,False
+Honda City i VTEC V,0.48210199785790014,-0.04493877312559856,False,False,False,True,False,True,True,False,False,False,False
+Nissan Sunny Diesel XV,0.007601071418739302,0.2413427365733525,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Verna VTVT 1.6 AT SX Option,1.1938533875166413,-0.5785918047077518,False,False,False,True,True,False,False,False,False,False,False
+Toyota Innova 2.5 V Diesel 8-seater,-0.9414007814595824,5.975893342606202,True,False,False,False,True,False,True,False,False,False,False
+Mahindra Xylo E4,-0.9414007814595824,3.42720418436938,True,False,False,False,True,False,True,False,False,False,True
+Toyota Fortuner 4x4 MT,0.2448515346383197,0.878515026132558,True,False,False,False,True,False,True,False,False,False,False
+Toyota Corolla Altis 1.8 VL CVT,1.1938533875166413,-0.9268064609518577,False,False,False,True,False,False,False,False,False,False,False
+Tata Tiago 1.2 Revotron XZ,1.4311038507362217,,False,False,False,True,True,False,True,False,False,False,False
+Ford Fiesta 1.4 ZXi TDCi ABS,-0.9414007814595824,0.6661242629461562,True,False,False,False,True,False,True,True,False,False,False
+Maruti Ertiga BSIV ZXI,0.48210199785790014,0.2413427365733525,False,False,False,True,True,False,True,False,False,False,False
+Volkswagen Polo Diesel Trendline 1.2L,-0.704150318240002,1.6006436209663244,True,False,False,False,True,False,True,True,False,False,False
+Tata Manza Aura Quadrajet BS IV,-0.46689985502042153,0.6024070339902357,True,False,False,False,True,False,True,False,True,False,False
+Mahindra TUV 300 T10 Dual Tone,1.1938533875166413,-0.6082203161722549,True,False,False,False,True,False,True,False,False,False,False
+Mahindra Xylo D4,-0.704150318240002,0.45373349975975436,True,False,False,False,True,False,True,False,False,False,True
+Toyota Innova 2.5 G3,-0.704150318240002,1.09090578931896,True,False,False,False,True,False,True,False,False,False,True
+Hyundai i20 Sportz Petrol,-0.704150318240002,-0.6082203161722549,False,False,False,True,True,False,True,False,False,False,False
+Honda Amaze S i-Dtech,0.2448515346383197,,True,False,False,False,False,False,True,False,False,False,False
+Maruti 800 Std MPFi,-1.6531521711183237,-0.08361513110184234,False,False,False,True,True,False,True,False,False,False,False
+Maruti Ritz LDi,0.7193524610774805,0.45373349975975436,True,False,False,False,True,False,True,False,True,False,False
+Ford Aspire Titanium BSIV,0.956602924297061,0.6907403523994602,False,False,False,True,False,False,True,False,False,False,False
+Maruti Eeco CNG 5 Seater AC BSIV,1.4311038507362217,-1.3728270636433015,False,False,False,False,True,False,True,False,False,False,False
+Maruti Ertiga ZDI,-0.22964939180084112,1.09090578931896,True,False,False,False,True,False,True,True,False,False,False
+BMW 7 Series 730Ld,-1.6531521711183237,,True,False,False,False,False,False,False,False,False,False,False
+Maruti Celerio ZXI,1.4311038507362217,-1.0330018425450587,False,False,False,True,False,False,True,False,False,False,False
+Hyundai EON Magna Plus,0.2448515346383197,-0.5657421635349745,False,False,False,True,True,False,True,False,False,False,False
+Maruti 800 AC BSIII,-1.890402634337904,-0.8206110793586568,False,False,False,True,True,False,True,False,False,False,False
+Volkswagen Jetta 2.0L TDI Comfortline,-0.22964939180084112,0.2413427365733525,True,False,False,False,True,False,True,False,True,False,False
+Mahindra Jeep MM 550 XDB,-2.602154023996645,-0.3958295529858531,True,False,False,False,True,False,True,False,False,False,True
+Tata Indica Vista TDI LS,-0.46689985502042153,1.09090578931896,True,False,False,False,True,False,True,False,True,False,False
+Hyundai Accent GLS 1.6 ABS,-1.6531521711183237,0.13514735498015157,False,False,False,False,True,False,True,False,False,False,True
+Renault KWID 1.0 RXT Optional,0.956602924297061,-0.8206110793586568,False,False,False,True,True,False,True,False,False,False,False
+Maruti Wagon R LX Minor,0.007601071418739302,-0.6506984688095353,False,False,False,True,True,False,True,False,False,False,False
+Hyundai i10 Magna 1.1,-1.1786512446791628,-0.18343878979945122,False,False,False,True,True,False,True,False,True,False,False
+Mahindra XUV500 W8 2WD,,0.6661242629461562,True,False,False,False,True,False,True,False,True,False,False
+Honda Brio V MT,-0.22964939180084112,-0.5657421635349745,False,False,False,True,False,False,True,False,True,False,False
+Maruti Alto LX,-2.1276530975574843,-0.18343878979945122,False,False,False,True,True,False,True,False,False,False,False
+Maruti Ciaz ZDi,0.2448515346383197,0.45373349975975436,True,False,False,False,False,False,True,False,True,False,False
+Maruti Alto K10 VXI,0.7193524610774805,-0.6082203161722549,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift VXI,1.4311038507362217,-0.3745904766672129,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift DDiS VDI,0.956602924297061,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Maruti Swift Dzire AMT VDI,0.956602924297061,-0.9268064609518577,True,False,False,False,True,False,False,False,False,False,False
+Maruti Ritz LDi,0.007601071418739302,,True,False,False,False,True,False,True,False,True,False,False
+Toyota Corolla Altis Diesel D4DGL,-0.46689985502042153,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Maruti 800 DX,-2.3649035607770648,-0.7144156977654559,False,False,False,True,True,False,True,False,False,False,False
+Volkswagen Vento 1.5 TDI Highline,0.007601071418739302,0.06081058786491093,True,False,False,False,False,False,True,False,False,False,False
+Maruti Swift VXI,1.6683543139558021,-1.425924754439902,False,False,False,True,True,False,True,False,False,False,False
+Hyundai i10 Sportz 1.2,-0.46689985502042153,-0.5423791795844704,False,False,False,True,False,False,True,False,False,False,False
+Fiat Avventura Urban Cross 1.3 Multijet Emotion,1.1938533875166413,-0.6489356254750882,True,False,False,False,False,False,True,False,False,False,False
+Toyota Etios Cross 1.4L GD,0.48210199785790014,0.2413427365733525,True,False,False,False,True,False,True,False,True,False,False
+Maruti Vitara Brezza VDi Option,0.956602924297061,-0.3958295529858531,True,False,False,False,True,False,True,False,False,False,False
+Maruti Alto LXi,-0.22964939180084112,-0.18343878979945122,False,False,False,True,True,False,True,False,True,False,False
+Mahindra Bolero Power Plus LX,0.7193524610774805,-0.18343878979945122,True,False,False,False,True,False,True,False,False,False,False
+Mahindra Thar 4X2,0.2448515346383197,-0.7144156977654559,True,False,False,False,True,False,True,False,False,False,False
+Maruti Ritz LDi,0.007601071418739302,0.45373349975975436,True,False,False,False,True,False,True,False,False,False,True
+Hyundai Elantra CRDi (Leather Option),-1.6531521711183237,1.09090578931896,True,False,False,False,True,False,True,False,False,False,True
+Mahindra Xylo D2 BSIV,0.007601071418739302,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Maruti 800 AC BSIII,,0.45373349975975436,False,False,False,True,True,False,True,False,True,False,False
+Maruti Esteem Vxi,-1.4159017078987433,0.45373349975975436,False,False,False,True,True,False,True,False,True,False,False
+Renault KWID RXT Optional,0.7193524610774805,-0.9268064609518577,False,False,False,True,True,False,True,False,False,False,False
+Mahindra Bolero DI,-1.6531521711183237,0.10872594403976318,True,False,False,False,True,False,True,False,False,False,False
+Maruti Swift Dzire VDI,0.2448515346383197,4.0643764739285855,True,False,False,False,True,False,True,False,True,False,False
+Nissan Kicks XL D BSIV,1.4311038507362217,-1.3728270636433015,True,False,False,False,True,False,True,False,False,False,False
+Skoda Yeti Ambition 4X2,-0.22964939180084112,0.34753811816655344,True,False,False,False,True,False,True,False,True,False,False
+Maruti SX4 Zxi with Leather BSIII,-1.4159017078987433,0.2069354329371554,False,False,False,True,True,False,True,False,False,False,False
+Chevrolet Cruze LTZ,-0.22964939180084112,-0.6082203161722549,True,False,False,False,True,False,True,False,False,False,False
+Mahindra Scorpio SLE BSIV,-0.46689985502042153,0.644885186627516,True,False,False,False,True,False,True,False,True,False,False
+Mahindra KUV 100 mFALCON D75 K6,0.7193524610774805,-1.0330018425450587,True,False,False,False,True,False,True,False,False,False,False
+Maruti Swift Dzire LXI,0.48210199785790014,0.02895197338695065,False,False,False,True,True,False,True,False,False,False,False
+Hyundai i20 Asta 1.4 CRDi,0.7193524610774805,0.2413427365733525,True,False,False,False,True,False,True,False,False,False,False
+Maruti Zen D PS,-2.3649035607770648,0.878515026132558,True,False,False,False,True,False,True,False,True,False,False
+Tata Hexa XM,0.956602924297061,-0.8206110793586568,True,False,False,False,True,False,True,False,False,False,False
+Skoda Laura 1.9 TDI MT Ambiente,-0.9414007814595824,0.6661242629461562,True,False,False,False,True,False,True,False,False,False,True
+Honda Civic 1.8 S MT,-1.6531521711183237,1.09090578931896,False,False,False,True,True,False,True,False,False,False,True
+Volkswagen Vento 1.5 Highline Plus AT 16 Alloy,0.956602924297061,0.878515026132558,True,False,False,False,True,False,False,False,False,False,False
+Hyundai Xcent 1.2 CRDi E,0.956602924297061,-0.5445030872163343,True,False,False,False,True,False,True,False,False,False,False
+Maruti Swift Dzire VDI,0.2448515346383197,0.45373349975975436,True,False,False,False,True,False,True,False,False,False,False
+Maruti Zen Estilo Sports,-0.9414007814595824,-0.5850697229849371,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Grand i10 Asta,0.2448515346383197,0.2413427365733525,False,False,False,True,True,False,True,False,True,False,False
+Mahindra Quanto C8,-0.22964939180084112,1.5156873156917636,True,False,False,False,True,False,True,False,True,False,False
+Mahindra Xylo H4,1.4311038507362217,-1.1391972241382595,True,False,False,False,True,False,True,False,False,False,True
+Tata New Safari 3L Dicor LX 4x2,-1.1786512446791628,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Maruti Baleno Sigma 1.2,0.48210199785790014,,False,False,False,True,False,False,True,False,False,False,False
+Hyundai Grand i10 Sportz,0.956602924297061,-1.2453926057314606,False,False,False,True,True,False,True,False,False,False,False
+Hyundai EON Era Plus,0.007601071418739302,-0.9479393418889047,False,False,False,True,True,False,True,False,False,False,False
+Toyota Fortuner 3.0 Diesel,-0.704150318240002,2.365250368437371,True,False,False,False,True,False,True,False,False,False,False
+Chevrolet Enjoy 1.3 TCDi LS 8,0.007601071418739302,-1.0330018425450587,True,False,False,False,False,False,True,False,False,False,False
+Maruti Wagon R ZXI 1.2,1.4311038507362217,-0.8206110793586568,False,False,False,True,False,False,True,False,False,False,False
+Chevrolet Beat Diesel LS,0.2448515346383197,-0.056004331887610094,True,False,False,False,True,False,True,False,False,False,False
+Honda Jazz S,-0.9414007814595824,-0.3958295529858531,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift Dzire VDI,0.956602924297061,-0.6082203161722549,True,False,False,False,True,False,True,False,True,False,False
+Toyota Etios V,-0.46689985502042153,-0.5843263553137847,False,False,False,True,False,False,True,False,False,False,False
+Mahindra Bolero SLX,0.7193524610774805,-0.3745904766672129,True,False,False,False,False,False,True,False,False,False,False
+Maruti Omni CNG,-1.4159017078987433,0.6661242629461562,False,False,False,False,True,False,True,True,False,False,False
+Hyundai Grand i10 Asta Option,0.48210199785790014,,False,False,False,True,False,False,True,False,False,False,False
+Mahindra XUV500 W11 Option AWD,1.6683543139558021,-0.9268064609518577,True,False,False,False,False,False,True,False,False,False,False
+Hyundai Verna 1.6 SX CRDi (O),-0.22964939180084112,0.4441759154163663,True,False,False,False,True,False,True,False,True,False,False
+Maruti 800 AC BSII,-2.1276530975574843,-0.7144156977654559,False,False,False,True,True,False,True,False,False,False,True
+Tata New Safari DICOR 2.2 GX 4x2 BS IV,-0.22964939180084112,0.2413427365733525,True,False,False,False,True,False,True,False,True,False,False
+Maruti Alto LXi,-0.9414007814595824,-0.3958295529858531,False,False,False,True,True,False,True,False,True,False,False
+Hyundai Verna CRDi 1.6 EX,1.1938533875166413,-0.9268064609518577,True,False,False,False,True,False,True,False,False,False,False
+Renault KWID Climber 1.0 AMT BSIV,0.956602924297061,-1.2951345224697157,False,False,False,True,False,False,False,False,False,False,False
+Hyundai Grand i10 1.2 Kappa Magna BSIV,1.6683543139558021,-1.3515879873246615,False,False,False,True,True,False,True,False,False,False,False
+Maruti Celerio VXI AMT BSIV,0.7193524610774805,-0.6206451758186594,False,False,False,True,False,True,False,False,True,False,False
+Maruti Eeco 5 Seater AC BSIV,0.956602924297061,-1.2803946035045795,False,False,False,True,False,False,True,False,False,False,False
+Hyundai Creta 1.6 CRDi SX,0.7193524610774805,0.02895197338695065,True,False,False,False,True,False,True,False,False,False,False
+Honda City VX MT,-0.704150318240002,-0.42171998701827546,False,False,False,True,False,False,True,False,False,False,False
+Maruti Ritz VDi,-0.9414007814595824,,True,False,False,False,True,False,True,False,False,False,True
+Maruti Eeco 7 Seater Standard BSIV,1.1938533875166413,-1.0330018425450587,False,False,False,True,False,False,True,False,False,False,False
+Maruti Zen Estilo LXI Green (CNG),-0.704150318240002,-0.013526179250329723,False,False,False,False,True,False,True,False,True,False,False
+Maruti Alto LX,-1.6531521711183237,-0.18343878979945122,False,False,False,False,True,False,True,False,True,False,False
+Mahindra XUV500 W7 AT BSIV,1.1938533875166413,-0.3958295529858531,True,False,False,False,True,False,False,False,False,False,False
+Hyundai Elite i20 Diesel Era,1.4311038507362217,-0.9268064609518577,True,False,False,False,True,False,True,False,False,False,False
+Maruti Swift VDI Optional,0.956602924297061,-0.18343878979945122,True,False,False,False,True,False,True,False,True,False,False
+Ford Figo Petrol Titanium,-0.46689985502042153,-0.18343878979945122,False,False,False,True,True,False,True,False,False,False,True
+Maruti Swift VDI BSIV,0.48210199785790014,0.13132432124279633,True,False,False,False,True,False,True,False,False,False,False
+Volkswagen Vento Diesel Style Limited Edition,0.007601071418739302,0.34753811816655344,True,False,False,False,True,False,True,False,False,False,False
+Maruti Swift VXI BSIII,-1.6531521711183237,0.5630935037244327,False,False,False,True,False,False,True,False,True,False,False
+Maruti Alto 800 LXI,0.2448515346383197,-0.16219971348081103,False,False,False,True,True,False,True,False,False,False,False
+Mahindra XUV500 AT W8 FWD,0.48210199785790014,-0.502024934579054,True,False,False,False,False,False,False,False,False,False,False
+Chevrolet Aveo U-VA 1.2 LS,-0.9414007814595824,0.39623932016519536,False,False,False,True,False,False,True,False,False,False,False
+Maruti 800 EX,-2.1276530975574843,-0.18343878979945122,False,False,False,True,True,False,True,False,False,False,True
+Mahindra XUV500 W8 2WD,0.007601071418739302,0.3483027249140245,True,False,False,False,False,False,True,False,True,False,False
+Ford Endeavour Titanium 4X2,-0.46689985502042153,1.7211541399982888,True,False,False,False,False,False,True,False,True,False,False
+Tata Zest Revotron 1.2 XT,0.48210199785790014,-1.0934907319005458,False,False,False,True,True,False,True,False,False,False,False
+Maruti Alto K10 VXI,0.2448515346383197,0.2413427365733525,False,False,False,True,True,False,True,False,True,False,False
+Ford Endeavour 3.2 Titanium AT 4X4,1.4311038507362217,-1.0330018425450587,True,False,False,False,True,False,False,False,False,False,False
+Chevrolet Cruze LTZ,,-1.3813226941707577,True,False,False,False,False,False,True,False,False,False,False
+Mahindra XUV500 W8 2WD,-0.22964939180084112,3.06218941875723,True,False,False,False,False,False,True,False,False,False,False
+Chevrolet Tavera LT L1 7 Seats BSIII,-1.6531521711183237,2.7900318948101743,True,False,False,False,True,False,True,False,False,False,True
+Maruti Zen LXi BSII,-2.602154023996645,0.2413427365733525,False,False,False,True,True,False,True,False,True,False,False
+Maruti Alto 800 LXI,0.2448515346383197,-0.9268064609518577,False,False,False,True,True,False,True,False,True,False,False
+Hyundai i10 Sportz 1.1L,0.48210199785790014,-0.6947695521707137,False,False,False,True,False,False,True,False,False,False,False
+Hyundai Santro Era,1.4311038507362217,-0.8206110793586568,False,False,False,True,True,False,True,False,False,False,False
+Mahindra Thar CRDe,,-0.9055673846332175,True,False,False,False,True,False,True,False,True,False,False
+Maruti Alto 800 LXI,0.2448515346383197,-0.2639986062760534,False,False,False,False,False,False,True,False,True,False,False
+Tata Indigo LX Dicor,-0.9414007814595824,-0.3958295529858531,True,False,False,False,True,False,True,False,False,False,False
+Maruti Swift VDI,-1.4159017078987433,-0.3958295529858531,True,False,False,False,False,False,True,False,False,False,False
+Hyundai Verna 1.6 Xi ABS,-1.1786512446791628,-0.3043103731288325,False,False,False,True,True,False,True,False,False,False,False
+Tata Venture EX,-0.22964939180084112,0.2413427365733525,True,False,False,False,True,False,True,False,False,False,False
+Maruti Celerio VDi,0.48210199785790014,0.02895197338695065,True,False,False,False,True,False,True,False,True,False,False
+Toyota Innova 2.5 G (Diesel) 7 Seater,0.48210199785790014,0.2413427365733525,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Santro Xing GLS CNG,-0.704150318240002,0.6236461103088758,False,False,False,False,False,False,True,False,True,False,False
+Mahindra XUV500 W6 2WD,0.956602924297061,-0.6082203161722549,True,False,False,False,True,False,True,False,False,False,False
+Mahindra Scorpio VLS 2.2 mHawk,-0.9414007814595824,0.878515026132558,True,False,False,False,True,False,True,False,True,False,False
+Skoda Laura Ambiente 2.0 TDI CR AT,-0.22964939180084112,-0.42768816746381333,True,False,False,False,True,False,False,False,True,False,False
+Maruti Gypsy E MG410W ST,-4.262907266533708,0.6661242629461562,False,False,False,True,True,False,True,False,True,False,False
+Hyundai EON Magna Plus,1.1938533875166413,-0.7993720030400167,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Verna SX Diesel,0.007601071418739302,-0.49641781843093297,True,False,False,False,False,False,True,False,False,False,False
+Toyota Innova 2.5 EV Diesel MS 7 Str BSIII,-0.704150318240002,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Mercedes-Benz New C-Class 200 CDI Classic,-1.4159017078987433,0.705395315059322,True,False,False,False,False,False,True,False,True,False,False
+Hyundai EON Magna Plus,0.7193524610774805,0.2413427365733525,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift VVT ZXI,0.956602924297061,-0.18343878979945122,False,False,False,True,True,False,True,False,False,False,False
+Renault KWID RXT,1.1938533875166413,-1.1391972241382595,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift Dzire VDI,1.1938533875166413,,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Xcent 1.2 VTVT S,1.4311038507362217,-1.309109834687381,False,False,False,True,True,False,True,False,True,False,False
+Chevrolet Beat Diesel LT,-0.22964939180084112,-0.18343878979945122,False,False,False,False,True,False,True,False,False,False,False
+Tata Nano Lx,-0.704150318240002,0.45373349975975436,False,False,False,True,True,False,True,False,False,False,False
+Ford Fiesta 1.6 Duratec EXI Ltd,-1.1786512446791628,0.2413427365733525,False,False,False,True,True,False,True,False,True,False,False
+Toyota Innova Crysta 2.8 ZX AT BSIV,0.956602924297061,0.13514735498015157,True,False,False,False,True,False,False,False,False,False,False
+Maruti Baleno Delta 1.3,1.1938533875166413,,True,False,False,False,True,False,True,False,False,False,False
+Mahindra TUV 300 T6 Plus,0.48210199785790014,0.878515026132558,True,False,False,False,True,False,True,False,False,False,False
+Ford Figo Aspire Facelift,1.1938533875166413,-1.1459724894839058,True,False,False,False,False,False,True,False,False,False,False
+Maruti 800 AC,-1.4159017078987433,,False,False,False,True,True,False,True,False,True,False,False
+Maruti Swift VDI Optional,0.7193524610774805,-0.6082203161722549,True,False,False,False,True,False,True,False,False,False,False
+Maruti Wagon R VXI,-2.1276530975574843,-0.4807858582604138,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift Dzire VDI,0.2448515346383197,-0.6082203161722549,True,False,False,False,True,False,True,False,False,False,True
+Hyundai Verna 1.6 SX VTVT (O),0.007601071418739302,-0.056004331887610094,False,False,False,False,True,False,True,False,False,False,False
+Maruti Alto LXi,-0.46689985502042153,-0.6082203161722549,False,False,False,True,True,False,True,False,False,False,False
+Maruti Alto LXi,-1.4159017078987433,0.02895197338695065,False,False,False,True,True,False,True,False,False,False,False
+Toyota Corolla Altis D-4D J,0.2448515346383197,3.5121604896439407,True,False,False,False,True,False,True,False,False,False,False
+Maruti SX4 Celebration Diesel,-0.22964939180084112,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+BMW 7 Series Signature 730Ld,0.2448515346383197,-0.4595467819417736,True,False,False,False,True,False,False,False,False,False,False
+Mahindra Xylo D2 BS IV,0.48210199785790014,0.6661242629461562,True,False,False,False,True,False,True,False,False,False,True
+Mahindra Bolero DI DX 8 Seater,-0.9414007814595824,-0.28963417139265213,True,False,False,False,True,False,True,False,True,False,False
+Maruti Wagon R LXI,-1.1786512446791628,-0.2991705166597216,False,False,False,True,False,False,True,False,False,False,False
+Ford Ecosport 1.5 Petrol Titanium Plus AT,1.1938533875166413,-1.2453926057314606,False,False,False,True,True,False,False,False,False,False,False
+Nissan Micra XL,0.2448515346383197,-0.6082203161722549,False,False,False,True,True,False,True,False,True,False,False
+Hyundai Santro Magna AMT BSIV,1.4311038507362217,-1.2453926057314606,False,False,False,True,True,False,False,False,False,False,False
+Ford EcoSport 1.5 TDCi Titanium BSIV,0.7193524610774805,0.27521906330158363,True,False,False,False,False,False,True,False,False,False,False
+Fiat Linea Emotion (Diesel),-0.46689985502042153,-0.18343878979945122,True,False,False,False,True,False,True,False,False,False,False
+Mahindra Scorpio VLX 2WD AIRBAG BSIV,0.2448515346383197,0.6661242629461562,True,False,False,False,True,False,True,False,True,False,False
+Toyota Corolla Altis G AT,0.7193524610774805,-0.3958295529858531,False,False,False,True,True,False,False,False,False,False,False
+Chevrolet Captiva 2.0L VCDi,-0.46689985502042153,0.15638643129879176,True,False,False,False,True,False,True,False,False,False,True
+Tata Nexon 1.2 Revotron XZ Plus,1.4311038507362217,-1.287870758368741,False,False,False,True,True,False,True,False,False,False,False
+Toyota Innova 2.5 VX (Diesel) 7 Seater,0.48210199785790014,0.02895197338695065,True,False,False,False,True,False,True,False,False,False,True
+Toyota Fortuner 2.8 4WD AT BSIV,1.4311038507362217,-1.3515879873246615,True,False,False,False,True,False,False,False,False,False,False
+Maruti Zen LX,-2.1276530975574843,0.2201036602547123,False,False,False,True,True,False,True,False,True,False,False
+Mahindra Bolero Power Plus Plus AC BSIV PS,1.1938533875166413,-0.7144156977654559,True,False,False,False,True,False,True,False,False,False,False
+Ford EcoSport 1.5 TDCi Titanium BSIV,0.007601071418739302,0.5234613873138501,True,False,False,False,False,False,True,False,False,False,False
+Toyota Innova Crysta 2.4 VX MT 8S BSIV,1.4311038507362217,-1.0330018425450587,True,False,False,False,True,False,True,False,False,False,False
+Honda Mobilio V i VTEC,0.48210199785790014,-0.502024934579054,False,False,False,True,True,False,True,False,False,False,False
+Volkswagen Polo Petrol Highline 1.2L,-0.46689985502042153,-0.30649799798965244,False,False,False,True,False,False,True,False,False,False,False
+Hyundai Elite i20 Sportz Plus BSIV,1.4311038507362217,-1.1710558386162198,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Santro Magna AMT BSIV,1.4311038507362217,-1.1179581478196194,False,False,False,True,True,False,False,False,False,False,False
+Tata Sumo Victa EX 7/9 Str BSII,-0.9414007814595824,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Maruti Wagon R VXI BS IV,0.007601071418739302,-0.14096063716217083,False,False,False,True,True,False,True,False,True,False,False
+Maruti Celerio VXI,0.2448515346383197,0.28382088921063287,False,False,False,True,False,False,True,False,True,False,False
+Maruti Swift ZDI,0.7193524610774805,-0.09848248452489047,True,False,False,False,False,False,True,False,False,False,False
+Maruti Swift Dzire ZDI,0.48210199785790014,,True,False,False,False,True,False,True,False,False,False,False
+Tata Indigo LS,-0.22964939180084112,0.45373349975975436,True,False,False,False,True,False,True,False,False,False,False
+Mahindra XUV500 AT W10 FWD,0.48210199785790014,-0.18343878979945122,True,False,False,False,False,False,False,False,False,False,False
+Maruti Swift Dzire ZDI,0.2448515346383197,1.09090578931896,True,False,False,False,True,False,True,False,True,False,False
+Ford Figo Diesel ZXI,-0.46689985502042153,1.7068390025595253,True,False,False,False,True,False,True,False,True,False,False
+Mercedes-Benz S-Class S 350d Connoisseurs Edition,0.956602924297061,-1.3197293728467012,True,False,False,False,False,False,False,False,False,False,False
+Mahindra Scorpio SLX 2.6 Turbo 8 Str,-1.4159017078987433,1.9404688420645675,True,False,False,False,True,False,True,False,True,False,False
+Hyundai Grand i10 1.2 Kappa Asta,0.956602924297061,,False,False,False,True,True,False,True,False,False,False,False
+Honda Amaze VX i-DTEC,1.1938533875166413,0.13089953971642354,True,False,False,False,True,False,True,False,False,False,False
+Toyota Innova Crysta 2.4 VX MT 8S BSIV,1.1938533875166413,-1.1391972241382595,False,False,False,False,True,False,True,False,False,False,False
+Maruti Swift Dzire VDI,0.7193524610774805,,True,False,False,False,True,False,True,False,True,False,False
+Maruti Zen Estilo 1.1 LXI BSIII,-1.1786512446791628,0.2413427365733525,False,False,False,True,True,False,True,True,False,False,False
+Hyundai i20 Active S Petrol,0.7193524610774805,-0.2718358254376317,False,False,False,True,False,False,True,False,False,False,False
+Hyundai Verna 1.6 VTVT,0.007601071418739302,,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Verna 1.6 SX CRDi (O),-0.22964939180084112,0.2413427365733525,True,False,False,False,False,False,True,False,True,False,False
+Maruti Alto K10 VXI,1.1938533875166413,-0.7144156977654559,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Getz GLX,-1.890402634337904,0.45373349975975436,False,False,False,True,True,False,True,False,False,False,True
+Honda Amaze EX i-Dtech,0.007601071418739302,0.45373349975975436,True,False,False,False,True,False,True,False,True,False,False
+Mahindra Bolero SLX,,0.6661242629461562,True,False,False,False,True,False,True,False,True,False,False
+Tata Tigor 1.2 Revotron XM,1.4311038507362217,-1.2453926057314606,False,False,False,False,True,False,True,False,False,False,False
+Ford Endeavour 3.2 Titanium AT 4X4,1.1938533875166413,-0.26839509507401194,True,False,False,False,False,False,False,False,False,False,False
+Hyundai i20 Sportz 1.2,,-0.3958295529858531,False,False,False,True,True,False,True,False,True,False,False
+Chevrolet Cruze LT,-0.46689985502042153,0.11390827866151139,True,False,False,False,True,False,True,False,True,False,False
+Hyundai Verna CRDi 1.6 AT EX,1.1938533875166413,-0.9268064609518577,True,False,False,False,True,False,False,False,True,False,False
+Skoda Laura Elegance 1.9 TDI  AT,-0.704150318240002,1.303296552505362,True,False,False,False,True,False,False,False,True,False,False
+Toyota Innova Crysta 2.5 VX BS IV,-0.46689985502042153,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Verna 1.6 SX VTVT,0.2448515346383197,0.6661242629461562,False,False,False,True,True,False,True,False,False,False,False
+Mahindra Verito 1.5 D6 BSIII,-0.22964939180084112,0.9251985158809293,True,False,False,False,True,False,True,False,True,False,False
+Hyundai i20 1.4 Sportz,0.956602924297061,,True,False,False,False,False,False,True,False,False,False,False
+Hyundai i10 Magna 1.2,-0.704150318240002,-0.18343878979945122,False,False,False,True,True,False,True,False,True,False,False
+Maruti Swift Dzire VDI,0.007601071418739302,0.878515026132558,True,False,False,False,True,False,True,False,True,False,False
+Mahindra Bolero B4,0.956602924297061,0.13514735498015157,True,False,False,False,False,False,True,False,False,False,False
+Maruti Ertiga VXI,0.2448515346383197,-1.0330018425450587,False,False,False,True,True,False,True,False,False,False,False
+Maruti Vitara Brezza VDi,1.1938533875166413,-0.3958295529858531,True,False,False,False,True,False,True,False,False,False,False
+Mahindra XUV500 W8 4WD,0.007601071418739302,-0.10583120493113997,True,False,False,False,False,False,True,False,False,False,False
+Hyundai i20 Magna Optional 1.2,0.007601071418739302,-0.7144156977654559,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Verna 1.6 SX VTVT AT,-0.46689985502042153,-0.18343878979945122,False,False,False,True,True,False,False,False,False,False,True
+Hyundai Santro LE zipPlus,-2.3649035607770648,-0.3958295529858531,False,False,False,True,True,False,True,True,False,False,False
+Honda City 1.5 S MT,-0.46689985502042153,0.02895197338695065,False,False,False,True,True,False,True,False,True,False,False
+Maruti A-Star Vxi,-0.704150318240002,-0.6082203161722549,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Santro Xing XL eRLX Euro III,-1.890402634337904,0.45373349975975436,False,False,False,True,False,False,True,False,True,False,False
+Mahindra XUV500 W8 2WD,-0.22964939180084112,0.7086024155834366,True,False,False,False,True,False,True,False,True,False,False
+Maruti Baleno Delta Automatic,1.1938533875166413,-0.3958295529858531,False,False,False,True,True,False,False,False,False,False,False
+Honda City i-DTEC V,0.956602924297061,-0.9268064609518577,True,False,False,False,True,False,True,False,False,False,False
+Datsun GO Plus T Option Petrol,1.1938533875166413,-1.2453926057314606,False,False,False,True,True,False,True,False,False,False,False
+Renault Pulse RxZ,0.956602924297061,-0.9905236899077783,True,False,False,False,False,False,True,False,False,False,False
+Volkswagen Jetta 1.9 Highline TDI,,0.40318449812139073,True,False,False,False,False,False,False,False,False,False,False
+Nissan Micra Diesel XV Premium,0.007601071418739302,-1.165321288010187,True,False,False,False,True,False,True,False,False,False,False
+Maruti Alto LXi BSIII,-1.1786512446791628,0.02895197338695065,False,False,False,True,True,False,True,False,False,False,False
+Maruti SX4 Vxi BSIV,-0.22964939180084112,0.878515026132558,False,False,False,False,True,False,True,False,True,False,False
+Maruti Swift Dzire VDi,-0.46689985502042153,2.577641131623773,True,False,False,False,True,False,True,False,False,False,True
+Ford EcoSport 1.5 Diesel Titanium Plus BSIV,0.956602924297061,-0.7144156977654559,True,False,False,False,True,False,True,False,False,False,False
+Maruti Zen Estilo 1.1 VXI BSIII,-1.1786512446791628,0.02895197338695065,False,False,False,True,True,False,True,False,True,False,False
+Nissan Evalia XV,0.2448515346383197,-0.8578856582978703,True,False,False,False,False,False,True,False,False,False,False
+Maruti Alto LX,-0.9414007814595824,-0.18343878979945122,False,False,False,True,True,False,True,False,True,False,False
+Mahindra Verito 1.5 D2 BSIV,0.48210199785790014,0.02895197338695065,True,False,False,False,True,False,True,False,True,False,False
+Maruti Alto LX,-0.22964939180084112,0.02895197338695065,False,False,False,True,True,False,True,False,True,False,False
+Hyundai Santro GS,-1.890402634337904,-0.2560764308092007,False,False,False,True,False,False,True,False,False,False,False
+Tata Indigo CR4,-0.46689985502042153,1.8448929986306866,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Santro Xing XG,-1.890402634337904,1.09090578931896,False,False,False,True,True,False,True,False,True,False,False
+Tata Indica Vista TDI LS,,-0.5417844854475484,True,False,False,False,False,False,True,False,False,False,False
+Hyundai i10 Sportz 1.1L,0.956602924297061,-1.2453926057314606,False,False,False,True,True,False,True,False,False,False,False
+Honda City i VTEC SV,0.2448515346383197,-0.6931766214468157,False,False,False,True,True,False,True,False,False,False,False
+Volkswagen Vento 1.5 TDI Highline,0.48210199785790014,0.02895197338695065,True,False,False,False,True,False,True,False,False,False,False
+Toyota Innova 2.5 VX (Diesel) 7 Seater BS IV,-0.704150318240002,1.09090578931896,True,False,False,False,True,False,True,False,True,False,False
+Hyundai Santro Xing GLS,-0.9414007814595824,0.6661242629461562,False,False,False,True,True,False,True,False,False,False,True
+Renault KWID RXT,0.956602924297061,-1.1179581478196194,False,False,False,True,True,False,True,False,False,False,False
+Tata Zest Quadrajet 1.3,0.7193524610774805,,True,False,False,False,True,False,True,False,False,False,False
+Maruti Alto LXi,-1.4159017078987433,0.6661242629461562,False,False,False,True,True,False,True,False,True,False,False
+Hyundai Elite i20 Sportz Plus BSIV,0.48210199785790014,-0.41706862930449323,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Grand i10 1.2 Kappa Asta,1.1938533875166413,-0.7781329267213765,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift Dzire VDI,0.48210199785790014,0.2413427365733525,True,False,False,False,True,False,True,False,False,False,False
+Maruti Baleno Alpha 1.3,0.7193524610774805,0.6661242629461562,True,False,False,False,True,False,True,False,False,False,False
+Toyota Innova Crysta 2.4 ZX MT,0.956602924297061,0.4791141959605294,True,False,False,False,False,False,True,False,False,False,False
+Mahindra Bolero 2011-2019 SLX,0.48210199785790014,-0.3958295529858531,True,False,False,False,True,False,True,False,False,False,False
+Tata Spacio SA 6 Seater,-0.9414007814595824,0.13514735498015157,True,False,False,False,True,False,True,False,False,False,False
+Maruti Alto 800 LXI,1.6683543139558021,-1.3515879873246615,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Grand i10 Sportz,0.7193524610774805,-0.5139188173174926,False,False,False,True,True,False,True,False,True,False,False
+Maruti Baleno Delta Automatic,1.1938533875166413,-1.296366388896197,False,False,False,True,True,False,False,False,False,False,False
+Maruti A-Star AT VXI,-0.22964939180084112,0.02895197338695065,False,False,False,True,True,False,False,False,False,False,False
+Maruti 800 Std BSIII,-2.3649035607770648,-0.3958295529858531,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Grand i10 1.2 Kappa Asta,0.956602924297061,-0.5657421635349745,False,False,False,True,True,False,True,False,False,False,False
+Maruti Alto LXi,-1.6531521711183237,0.2413427365733525,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift Dzire VDI Optional,0.956602924297061,-1.064860457023019,True,False,False,False,False,False,True,False,False,False,False
+Honda Amaze S CVT Petrol,1.4311038507362217,-1.2453926057314606,False,False,False,True,True,False,False,False,False,False,False
+Hyundai Grand i10 1.2 CRDi Asta,1.4311038507362217,-1.287870758368741,True,False,False,False,True,False,True,False,False,False,False
+Tata Tiago XZA AMT,1.1938533875166413,-1.2245783109391932,False,False,False,True,False,False,False,False,False,False,False
+Ford Aspire Titanium Plus Diesel BSIV,1.4311038507362217,-1.1391972241382595,True,False,False,False,True,False,True,False,False,False,False
+Maruti Alto 800 VXI,0.956602924297061,-1.0330018425450587,False,False,False,True,True,False,True,False,False,False,False
+BMW X5 xDrive 30d xLine,1.4311038507362217,-0.8206110793586568,True,False,False,False,False,False,False,False,False,False,False
+Toyota Innova 2.5 VX (Diesel) 8 Seater,0.2448515346383197,3.8519857107421838,True,False,False,False,True,False,True,False,True,False,False
+Toyota Innova 2.5 VX (Diesel) 8 Seater BS IV,-0.22964939180084112,2.152859605250969,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Santro Xing XS,-0.9414007814595824,-0.013526179250329723,False,False,False,True,True,False,True,False,True,False,False
+Tata Manza Club Class Quadrajet90 EX,-0.22964939180084112,-0.18343878979945122,True,False,False,False,True,False,True,False,False,False,False
+Honda City 1.5 GXI,-1.890402634337904,1.7280780788781656,False,False,False,True,True,False,True,False,False,False,True
+Maruti Alto LXi,-0.9414007814595824,-0.039777677580168994,False,False,False,True,False,False,True,False,True,False,False
+Maruti Swift Dzire VDI,0.2448515346383197,0.817834985090203,True,False,False,False,True,False,True,False,True,False,False
+Maruti Ritz VXI,-0.9414007814595824,0.2413427365733525,False,False,False,True,True,False,True,False,False,False,False
+Tata Nano Lx,-0.46689985502042153,-0.6082203161722549,False,False,False,True,True,False,True,False,False,False,False
+Ford Ecosport Sports Petrol,1.6683543139558021,-1.4365442925992222,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift LXi BSIV,-0.9414007814595824,0.30505996552927306,False,False,False,True,True,False,True,False,True,False,False
+Toyota Etios VD,0.7193524610774805,1.9192297657459272,True,False,False,False,True,False,True,False,False,False,False
+Toyota Etios GD,-0.46689985502042153,1.09090578931896,True,False,False,False,True,False,True,False,False,False,True
+Hyundai Verna 1.6 SX VTVT (O),0.2448515346383197,-0.3958295529858531,False,False,False,True,True,False,True,False,True,False,False
+Maruti Wagon R VXI BSIII,-1.890402634337904,-0.6082203161722549,False,False,False,True,True,False,True,False,True,False,False
+Volkswagen Vento 1.6 Highline,0.48210199785790014,-0.5445030872163343,False,False,False,True,True,False,True,False,True,False,False
+Datsun RediGO SV 1.0,1.4311038507362217,-1.43017256970363,False,False,False,True,True,False,True,False,False,False,False
+Maruti Ertiga SHVS ZDI Plus,0.956602924297061,-0.6082203161722549,True,False,False,False,True,False,True,False,False,False,False
+Honda Jazz Select Edition Active,-0.704150318240002,-0.18343878979945122,False,False,False,True,False,False,True,False,True,False,False
+Chevrolet Sail Hatchback 1.2 LS,0.7193524610774805,-0.8206110793586568,False,False,False,True,True,False,True,False,False,False,False
+Fiat Punto 1.2 Active,-0.704150318240002,-0.3958295529858531,False,False,False,True,True,False,True,False,True,False,False
+Tata Indica LXI,-2.1276530975574843,-0.4807858582604138,False,False,False,True,True,False,True,False,True,False,False
+Tata Nano Lx,-0.46689985502042153,-1.1391972241382595,False,False,False,True,True,False,True,False,False,False,False
+Fiat Linea 1.3 Multijet Emotion,0.48210199785790014,0.9549757008796628,True,False,False,False,True,False,True,False,False,False,False
+Honda Jazz V,1.4311038507362217,,False,False,False,True,True,False,True,False,False,False,False
+Toyota Innova 2.5 V Diesel 7-seater,0.2448515346383197,1.4094919340985628,True,False,False,False,False,False,True,False,False,False,False
+Maruti Esteem Vxi,-1.890402634337904,-1.0330018425450587,False,False,False,True,True,False,True,False,True,False,False
+Maruti Ertiga SHVS LDI Option,0.956602924297061,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Honda Amaze S i-Dtech,0.48210199785790014,0.878515026132558,True,False,False,False,True,False,True,False,False,False,False
+Ford Fiesta Classic 1.4 SXI Duratorq,-1.4159017078987433,0.6236461103088758,True,False,False,False,True,False,True,False,True,False,False
+Hyundai EON D Lite Plus,0.007601071418739302,-1.1710558386162198,False,False,False,True,True,False,True,False,False,False,False
+Maruti Alto K10 VXI,0.956602924297061,-0.7889860947202015,False,False,False,True,True,False,True,False,False,False,False
+Maruti Baleno Delta 1.2,0.956602924297061,-0.18343878979945122,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift VDI BSIV,0.2448515346383197,-0.24715601875537177,True,False,False,False,True,False,True,False,True,False,False
+Maruti Swift VDI,1.1938533875166413,-0.18343878979945122,True,False,False,False,True,False,True,False,False,False,False
+Chevrolet Spark 1.0 LT BS3,0.007601071418739302,-0.18343878979945122,False,False,False,True,True,False,True,False,True,False,False
+Hyundai Getz 1.5 CRDi GVS,-1.1786512446791628,1.8130343841527263,True,False,False,False,True,False,True,False,False,False,True
+Hyundai i10 Sportz 1.2,-0.704150318240002,0.6661242629461562,False,False,False,True,True,False,True,False,True,False,False
+Toyota Innova Crysta 2.8 ZX AT BSIV,0.7193524610774805,0.878515026132558,True,False,False,False,True,False,False,False,False,False,False
+Maruti Alto K10 VXI,1.4311038507362217,-1.3515879873246615,False,False,False,True,True,False,True,False,False,False,False
+Maruti Ertiga SHVS ZDI,0.7193524610774805,-0.22591694243673158,True,False,False,False,False,False,True,False,False,False,False
+Maruti Wagon R LXI Minor,-1.4159017078987433,1.09090578931896,False,False,False,True,True,False,True,False,True,False,False
+Nissan Sunny XL,-0.22964939180084112,,False,False,False,True,True,False,True,False,False,False,True
+Hyundai Verna CRDi 1.6 SX Option,1.1938533875166413,-0.18343878979945122,True,False,False,False,True,False,True,False,False,False,False
+Land Rover Discovery S 2.0 SD4,1.1938533875166413,-0.013526179250329723,False,False,False,True,True,False,False,False,False,False,False
+Mahindra Scorpio S11 BSIV,1.1938533875166413,-0.9268064609518577,True,False,False,False,True,False,True,False,False,False,False
+Toyota Etios Cross 1.2L G,0.48210199785790014,-0.18343878979945122,False,False,False,True,True,False,True,False,False,False,False
+Tata Indica GLS BS IV,-1.4159017078987433,1.303296552505362,False,False,False,True,True,False,True,False,True,False,False
+Toyota Innova 2.5 EV Diesel PS 7 Seater BSIII,-0.22964939180084112,3.8519857107421838,True,False,False,False,True,False,True,False,False,False,False
+Maruti Alto LX,-1.6531521711183237,1.09090578931896,False,False,False,True,True,False,True,False,False,False,True
+Maruti Swift VDI BSIV,0.2448515346383197,2.004186071020488,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Xcent 1.2 VTVT E Plus,1.1938533875166413,0.02895197338695065,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift VDi BSIII W/ ABS,-1.1786512446791628,0.02895197338695065,True,False,False,False,True,False,True,False,False,False,False
+Maruti Alto LX,-0.46689985502042153,-0.6082203161722549,False,False,False,True,True,False,True,False,False,False,False
+Chevrolet Enjoy TCDi LT 7 Seater,0.2448515346383197,1.6431217736036048,True,False,False,False,True,False,True,False,False,False,False
+Hyundai i10 Magna,-0.22964939180084112,-0.18343878979945122,False,False,False,True,True,False,True,False,True,False,False
+Maruti Alto 800 Base,-0.22964939180084112,-1.287870758368741,False,False,False,True,True,False,True,False,False,False,False
+Skoda Laura Ambiente 1.9 PD,-1.4159017078987433,,True,False,False,False,True,False,True,True,False,False,False
+Maruti Alto LXi BSIII,-0.704150318240002,0.10010287905439527,False,False,False,True,False,False,True,False,False,False,False
+Renault Duster RXL AWD,0.2448515346383197,-0.04391929746230383,True,False,False,False,False,False,True,False,False,False,False
+Maruti Zen D,-2.3649035607770648,0.6661242629461562,True,False,False,False,True,False,True,False,True,False,False
+Honda Jazz VX CVT,0.7193524610774805,-0.7781329267213765,False,False,False,True,False,False,False,False,False,False,False
+Hyundai Verna Transform SX VTVT,-0.46689985502042153,-0.2860660065711206,False,False,False,True,True,False,True,False,True,False,False
+Toyota Innova 2.5 GX 8 STR BSIV,-0.9414007814595824,5.914066391442641,True,False,False,False,False,False,True,False,False,False,False
+Hyundai EON Era Plus Sports Edition,0.2448515346383197,-0.28963417139265213,False,False,False,True,True,False,True,False,False,False,False
+Honda Brio 1.2 S MT,0.956602924297061,-1.1391972241382595,False,False,False,True,True,False,True,False,False,False,False
+Chevrolet Tavera Neo 3 Max 9 Str BSIII,0.2448515346383197,1.09090578931896,True,False,False,False,True,False,True,False,True,False,False
+Maruti Ciaz 1.4 Delta,1.1938533875166413,0.02895197338695065,False,False,False,True,True,False,True,False,False,False,False
+Mahindra Scorpio VLX 2WD BSIV,-0.704150318240002,0.6661242629461562,True,False,False,False,True,False,True,False,False,False,True
+Hyundai Grand i10 Sportz,0.7193524610774805,-0.9268064609518577,False,False,False,True,False,False,True,False,False,False,False
+Maruti Swift 1.3 LXI,-1.4159017078987433,0.2413427365733525,False,False,False,True,True,False,True,False,True,False,False
+Ford Figo 1.2P Ambiente MT,0.48210199785790014,-0.502024934579054,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift Dzire LDI,0.48210199785790014,0.09266920234287121,True,False,False,False,True,False,True,False,False,False,True
+Audi A4 2.0 TDI,-0.46689985502042153,-0.22591694243673158,True,False,False,False,False,False,False,False,False,False,False
+Maruti Ertiga VXI,0.2448515346383197,-0.9268064609518577,False,False,False,True,True,False,True,False,False,False,False
+Maruti Alto STD,-1.1786512446791628,0.6661242629461562,False,False,False,True,False,False,True,False,True,False,False
+Honda BR-V i-VTEC S MT,1.1938533875166413,-1.3515879873246615,False,False,False,True,True,False,True,False,False,False,False
+Maruti 800 DX,-3.076654950435806,-0.18343878979945122,False,False,False,True,True,False,True,False,False,False,False
+Hyundai EON Magna Plus,0.007601071418739302,2.8962272764033754,False,False,False,True,True,False,True,False,False,False,False
+Mahindra XUV500 W8 4WD,-0.22964939180084112,0.2413427365733525,True,False,False,False,True,False,True,False,True,False,False
+Honda City 1.5 S MT,-0.9414007814595824,1.09090578931896,False,False,False,True,True,False,True,False,True,False,False
+Tata Indigo GLS,-0.46689985502042153,-0.14096063716217083,False,False,False,True,True,False,True,False,True,False,False
+Maruti Alto 800 LXI,0.007601071418739302,-0.5657421635349745,False,False,False,True,True,False,True,False,False,False,True
+Datsun RediGO T Option,0.956602924297061,-0.8206110793586568,False,False,False,True,True,False,True,False,False,False,False
+Tata Indica DLX,-2.3649035607770648,1.09090578931896,True,False,False,False,True,False,True,False,True,False,False
+Volkswagen Vento Diesel Highline,-0.46689985502042153,-0.07724340820625028,True,False,False,False,True,False,True,False,True,False,False
+Chevrolet Beat LT Option,,-0.5869812398536147,False,False,False,True,False,False,True,False,False,False,False
+Maruti Ritz VDi,0.007601071418739302,-0.18343878979945122,True,False,False,False,True,False,True,False,True,False,False
+Chevrolet Aveo U-VA 1.2,-1.4159017078987433,0.878515026132558,False,False,False,True,True,False,True,False,True,False,False
+Maruti Alto K10 VXI,0.956602924297061,-0.8206110793586568,False,False,False,True,True,False,True,False,False,False,False
+Chevrolet Cruze LTZ AT,0.956602924297061,0.09266920234287121,True,False,False,False,False,False,False,False,False,False,False
+Toyota Corolla Altis Diesel D4DG,-0.46689985502042153,,True,False,False,False,True,False,True,False,False,False,False
+Volkswagen Polo 1.0 TSI Highline Plus,1.6683543139558021,-1.3515879873246615,False,False,False,True,True,False,True,False,False,False,False
+Hyundai EON Magna Plus,0.2448515346383197,0.2413427365733525,False,False,False,True,True,False,True,False,False,False,False
+Tata Sumo SE Plus BSIII,-2.602154023996645,1.09090578931896,True,False,False,False,False,False,True,False,False,False,False
+Maruti 800 AC,-1.1786512446791628,0.02895197338695065,False,False,False,True,True,False,True,False,False,False,True
+Hyundai i20 1.2 Spotz,0.956602924297061,,False,False,False,True,True,False,True,False,True,False,False
+Hyundai Verna 1.6 SX CRDi (O),0.007601071418739302,0.2413427365733525,True,False,False,False,True,False,True,False,True,False,False
+Chevrolet Beat Diesel LS,-0.22964939180084112,0.878515026132558,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Grand i10 Magna,0.48210199785790014,0.45373349975975436,False,False,False,True,True,False,True,False,False,False,False
+Land Rover Range Rover 4.4 Diesel LWB Vogue SE,-0.704150318240002,0.6661242629461562,True,False,False,False,False,False,False,False,False,False,False
+Hyundai Verna 1.6 SX,-0.22964939180084112,0.8583803817824872,True,False,False,False,False,False,True,False,False,False,False
+Datsun RediGO 1.0 S,0.956602924297061,-1.1391972241382595,False,False,False,True,False,False,True,False,True,False,False
+Maruti Alto STD,-1.890402634337904,,False,False,False,True,True,False,True,False,True,False,False
+Maruti Ritz VDi,0.2448515346383197,0.984710407725759,True,False,False,False,True,False,True,False,False,False,False
+Hyundai i10 Sportz 1.2,-0.704150318240002,0.878515026132558,False,False,False,True,True,False,True,False,True,False,False
+Toyota Innova 2.5 V Diesel 8-seater,-0.22964939180084112,1.9404688420645675,True,False,False,False,False,False,True,False,False,False,False
+Volkswagen Jetta 1.9 Highline TDI,-1.1786512446791628,0.45373349975975436,True,False,False,False,True,False,False,False,True,False,False
+Maruti Alto LX,-1.6531521711183237,1.1851860490974038,False,False,False,True,True,False,True,False,True,False,False
+Hyundai EON Era Plus,0.48210199785790014,0.2413427365733525,False,False,False,True,True,False,True,False,False,False,False
+Tata Winger Deluxe - Hi Roof (AC),-0.46689985502042153,2.365250368437371,True,False,False,False,True,False,True,False,False,False,True
+Honda City Edge Edition Diesel SV,1.1938533875166413,-0.6082203161722549,True,False,False,False,True,False,True,False,False,False,False
+Volkswagen Ameo 1.5 TDI Highline Plus 16,1.1938533875166413,-0.9268064609518577,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Grand i10 Magna,0.48210199785790014,0.02895197338695065,False,False,False,True,True,False,True,False,True,False,False
+Hyundai Getz GLS ABS,-1.890402634337904,-0.9905236899077783,False,False,False,True,True,False,True,False,False,False,False
+Tata Harrier XE,1.6683543139558021,-1.4365442925992222,True,False,False,False,True,False,True,False,False,False,False
+Skoda Superb Elegance 2.0 TDI CR AT,0.48210199785790014,0.2413427365733525,True,False,False,False,True,False,False,False,True,False,False
+Hyundai EON Magna Plus,1.1938533875166413,-0.8206110793586568,False,False,False,True,True,False,True,False,False,False,False
+Toyota Etios Liva G,0.007601071418739302,-0.3958295529858531,False,False,False,True,True,False,True,False,True,False,False
+Hyundai Creta 1.6 CRDi SX Plus,0.48210199785790014,0.32629904184791325,False,False,False,False,False,False,True,False,False,False,False
+Maruti Alto LXi,-1.4159017078987433,0.6661242629461562,False,False,False,True,True,False,True,False,True,False,False
+Honda Mobilio S i DTEC,0.7193524610774805,-0.3958295529858531,True,False,False,False,True,False,True,False,False,False,False
+Honda BRV i-DTEC V MT,0.956602924297061,-0.8206110793586568,True,False,False,False,True,False,True,False,False,False,False
+Ford Figo Diesel Titanium,-0.46689985502042153,0.02895197338695065,True,False,False,False,True,False,True,False,True,False,False
+Toyota Innova 2.5 GX (Diesel) 8 Seater BS IV,-1.1786512446791628,0.4452378692322983,True,False,False,False,True,False,True,False,False,False,True
+Hyundai Grand i10 CRDi Sportz,0.2448515346383197,0.02895197338695065,True,False,False,False,True,False,True,False,True,False,False
+Tata Indigo Grand Dicor,0.2448515346383197,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Maruti Alto 800 LXI,0.7193524610774805,-0.013526179250329723,False,False,False,True,False,False,True,False,False,False,False
+Maruti Baleno Zeta,0.7193524610774805,-0.4124597497433483,False,False,False,True,False,True,True,False,False,False,False
+Honda Amaze S i-Dtech,0.007601071418739302,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Tata Indigo CR4,-0.22964939180084112,1.09090578931896,True,False,False,False,True,False,True,False,True,False,False
+Tata Safari Storme VX,0.48210199785790014,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Grand i10 Magna AT,0.956602924297061,-1.234560676808954,False,False,False,True,False,False,False,False,False,False,False
+Audi A4 3.0 TDI Quattro,0.007601071418739302,0.36877719448519364,True,False,False,False,False,False,False,False,False,False,False
+Nissan Terrano XV Premium 110 PS,0.007601071418739302,0.2413427365733525,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Verna CRDi,-1.4159017078987433,0.6661242629461562,True,False,False,False,True,False,True,True,False,False,False
+Maruti Alto 800 LXI,1.1938533875166413,-1.3515879873246615,False,False,False,True,True,False,True,False,False,False,False
+Volkswagen Jetta 2.0 TDI Comfortline,-0.46689985502042153,5.168808442497875,True,False,False,False,True,False,True,False,False,False,True
+Mahindra Scorpio S11 BSIV,0.956602924297061,-1.0330018425450587,True,False,False,False,True,False,True,False,False,False,False
+Tata Nano Twist XT,0.48210199785790014,-0.24715601875537177,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift VDI Optional,0.956602924297061,-0.3958295529858531,True,False,False,False,True,False,True,False,False,False,False
+Hyundai i20 Asta Option 1.4 CRDi,0.7193524610774805,-0.3958295529858531,True,False,False,False,True,False,True,False,True,False,False
+Maruti SX4 Zxi BSIII,-1.4159017078987433,0.2413427365733525,False,False,False,True,True,False,True,False,False,False,True
+Hyundai EON 1.0 Era Plus,1.1938533875166413,-1.005348565178189,False,False,False,False,True,False,True,False,False,False,False
+Hyundai EON Era,-0.46689985502042153,-0.9480455372704979,False,False,False,True,False,False,True,False,False,False,False
+Fiat Grande Punto EVO 1.3 Active,0.2448515346383197,-0.3958295529858531,True,False,False,False,True,False,True,False,False,False,False
+Maruti Ciaz Sigma BSIV,1.1938533875166413,-1.0330018425450587,False,False,False,True,True,False,True,False,False,False,False
+Maruti SX4 Vxi BSIV,,0.878515026132558,False,False,False,True,True,False,True,False,True,False,False
+Hyundai EON Era Plus,-0.22964939180084112,0.02895197338695065,False,False,False,True,True,False,True,False,False,False,True
+Hyundai Verna 1.6 SX CRDi (O),0.007601071418739302,0.878515026132558,True,False,False,False,True,False,True,False,False,False,True
+Maruti Alto 800 LXI,0.2448515346383197,0.45373349975975436,False,False,False,True,True,False,True,False,True,False,False
+Maruti Eeco 7 Seater Standard BSIV,0.956602924297061,-0.8206110793586568,False,False,False,True,True,False,True,False,False,False,False
+Maruti Alto LX,-1.4159017078987433,-0.3533514003485727,False,False,False,True,True,False,True,False,True,False,False
+Renault KWID RXT,,-0.3958295529858531,False,False,False,True,True,False,True,False,False,False,False
+Maruti S-Presso VXI Plus,1.4311038507362217,-1.416367170096514,False,False,False,True,True,False,True,False,False,False,False
+Maruti Alto 800 LXI,1.1938533875166413,-0.8206110793586568,False,False,False,True,False,False,True,False,False,False,False
+Honda Civic 1.8 MT Sport,-1.4159017078987433,-0.28963417139265213,False,False,False,True,True,False,True,False,True,False,False
+Toyota Innova 2.5 E Diesel MS 7-seater,-0.46689985502042153,4.213050008159067,True,False,False,False,True,False,True,False,True,False,False
+Renault KWID 1.0 RXT Optional,1.4311038507362217,-1.2453926057314606,False,False,False,True,True,False,True,False,False,False,False
+Maruti 800 AC,-1.4159017078987433,0.02895197338695065,False,False,False,True,True,False,True,False,False,False,False
+Mahindra KUV 100 mFALCON G80 K8 5str,0.7193524610774805,-0.18343878979945122,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Verna 1.6 SX CRDi (O),0.2448515346383197,-0.16219971348081103,True,False,False,False,False,False,True,False,False,False,False
+Maruti 800 AC,,0.02895197338695065,False,False,False,True,True,False,True,False,False,False,False
+Hyundai i20 1.2 Asta,-0.46689985502042153,0.07143012602423102,False,False,False,True,False,False,True,False,False,False,False
+Maruti Wagon R VXI BS IV,1.1938533875166413,-1.1391972241382595,False,False,False,True,True,False,True,False,False,False,False
+Tata Sumo GX TC 7 Str BSIII,-1.6531521711183237,0.6661242629461562,True,False,False,False,True,False,True,False,True,False,False
+Hyundai Sonata 2.4L AT,-1.6531521711183237,0.2413427365733525,False,False,False,True,True,False,False,True,False,False,False
+Maruti Esteem Vxi - BSIII,-1.6531521711183237,-0.18343878979945122,False,False,False,True,True,False,True,False,True,False,False
+Tata Manza Aura (ABS) Quadrajet BS IV,-0.22964939180084112,0.2413427365733525,True,False,False,False,True,False,True,False,True,False,False
+Nissan Terrano XL 85 PS,0.7193524610774805,0.7723196445393572,True,False,False,False,True,False,True,False,True,False,False
+Hyundai Grand i10 1.2 Kappa Sportz Dual Tone,0.007601071418739302,-0.7080652139461825,False,False,False,True,False,False,True,False,False,False,False
+Nissan Micra Diesel XV,0.007601071418739302,0.45373349975975436,True,False,False,False,True,False,True,False,False,False,False
+Maruti Alto 800 LX,0.956602924297061,-0.6719375451281755,False,False,False,True,True,False,True,False,False,False,False
+Hyundai i20 Asta,-0.9414007814595824,0.878515026132558,False,False,False,True,True,False,True,False,True,False,False
+Mahindra Bolero SLX,-0.46689985502042153,0.45373349975975436,True,False,False,False,True,False,True,False,True,False,False
+Tata Tiago 1.2 Revotron XZ,1.1938533875166413,-1.3728270636433015,False,False,False,True,True,False,True,False,False,False,False
+Mahindra Bolero DI DX 8 Seater,-2.1276530975574843,2.110381452613689,True,False,False,False,True,False,True,True,False,False,False
+Maruti Ertiga VDI,1.4311038507362217,-0.3958295529858531,True,False,False,False,True,False,True,False,False,False,False
+Tata New Safari DICOR 2.2 EX 4x2,-0.704150318240002,1.09090578931896,True,False,False,False,True,False,True,False,True,False,False
+Renault KWID AMT,0.956602924297061,-0.6082203161722549,False,False,False,True,True,False,False,False,False,False,False
+Hyundai i20 1.4 Asta Option,0.956602924297061,-0.3958295529858531,True,False,False,False,True,False,True,False,False,False,False
+Ford Endeavour 4x4 XLT,-2.1276530975574843,,True,False,False,False,False,False,True,False,True,False,False
+Maruti Swift Dzire ZDI,1.4311038507362217,1.09090578931896,True,False,False,False,True,False,True,False,True,False,False
+Chevrolet Optra Magnum 2.0 LS BSIII,-0.22964939180084112,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Mahindra Scorpio VLS AT 2.2 mHAWK,-0.704150318240002,2.4926848263492123,True,False,False,False,True,False,False,False,True,False,False
+Toyota Innova 2.0 GX 8 STR BSIV,-0.46689985502042153,2.7263146658542543,False,False,False,True,True,False,True,False,True,False,False
+Mahindra Thar 4X4,0.007601071418739302,-0.4857558021189756,True,False,False,False,True,False,True,False,True,False,False
+Maruti Wagon R VXI BSIII,-0.22964939180084112,-0.6082203161722549,False,False,False,True,True,False,True,False,True,False,False
+Honda Amaze EX i-Dtech,0.2448515346383197,,True,False,False,False,False,False,True,False,False,False,False
+Hyundai EON 1.0 Era Plus,1.4311038507362217,-1.3515879873246615,False,False,False,True,True,False,True,False,False,False,False
+Volkswagen Vento 1.5 TDI Comfortline AT,0.2448515346383197,0.02895197338695065,True,False,False,False,True,False,False,False,False,False,False
+Tata Indica Vista Quadrajet LS,-0.22964939180084112,0.878515026132558,True,False,False,False,True,False,True,False,False,False,False
+Hyundai Santro Magna BSIV,1.4311038507362217,-1.431234523519562,False,False,False,True,True,False,True,False,False,False,False
+Daewoo Matiz SD,-2.602154023996645,,False,False,False,True,True,False,True,False,False,False,False
+Maruti Swift VDI BSIV,0.956602924297061,0.45373349975975436,True,False,False,False,True,False,True,False,False,False,False
+Renault KWID 1.0 RXL,1.1938533875166413,-0.37773385996237163,False,False,False,True,True,False,True,False,False,False,False
+Honda Jazz 1.5 E i DTEC,0.956602924297061,-0.6294593924908951,True,False,False,False,True,False,True,False,False,False,False
+Hyundai i20 1.4 CRDi Asta,-0.22964939180084112,0.02895197338695065,True,False,False,False,True,False,True,False,False,False,False
+Hyundai i20 Active 1.2 SX,0.7193524610774805,,False,False,False,True,True,False,True,False,False,False,False
+Maruti SX4 Vxi BSIV,-0.22964939180084112,0.6661242629461562,False,False,False,True,True,False,True,False,True,False,False
+Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,-0.46689985502042153,2.7900318948101743,True,False,False,False,True,False,True,False,False,False,True
+Tata Tiago 1.2 Revotron XT,1.1938533875166413,0.2413427365733525,False,False,False,True,True,False,True,False,False,False,False
+Ford Aspire Titanium Plus Diesel BSIV,1.1938533875166413,-1.0330018425450587,True,False,False,False,False,False,True,False,False,False,False
+Tata Indigo LX,-0.46689985502042153,-0.18343878979945122,True,False,False,False,True,False,True,False,True,False,False
+Nissan Micra Diesel XV Premium,-0.46689985502042153,1.09090578931896,True,False,False,False,True,False,True,False,False,False,False
+Honda City i VTEC V,0.7193524610774805,-0.858735221350616,False,False,False,True,False,False,True,False,False,False,False
+Hyundai i20 Active 1.2 SX,0.7193524610774805,,False,False,False,True,True,False,True,False,False,False,False
+Tata Tiago XT,0.7193524610774805,-0.5869812398536147,False,False,False,True,False,False,True,False,False,False,False
+Maruti 800 AC BSIII,-0.9414007814595824,0.30505996552927306,False,False,False,True,True,False,True,False,True,False,False
+Maruti Alto LXi BSIII,-1.1786512446791628,0.02895197338695065,False,False,False,True,True,False,True,False,False,False,True
+Mahindra Scorpio EX,-0.22964939180084112,-0.17842636778825213,True,False,False,False,False,False,True,False,False,False,False
+Tata Indica GLS BS IV,-1.1786512446791628,0.878515026132558,False,False,False,True,True,False,True,False,False,False,True
+Chevrolet Beat Diesel LT,-0.22964939180084112,0.642761278995652,True,False,False,False,True,False,True,False,False,False,True
+Hyundai Santro Xing GL Plus,0.007601071418739302,-0.41706862930449323,False,False,False,True,True,False,True,False,False,False,False
+Maruti Ritz LXi,-0.46689985502042153,0.2178098400122992,False,False,False,True,False,False,True,False,False,False,False
+Maruti Baleno Alpha 1.2,1.4311038507362217,-0.9480455372704979,False,False,False,True,True,False,True,False,False,False,False
+Maruti 800 AC BSII,-2.8394044872162256,0.08287798815997809,False,False,False,True,True,False,True,False,True,False,False
+Renault KWID RXT,0.7193524610774805,-0.6082203161722549,False,False,False,True,True,False,True,False,False,False,False
+Toyota Innova 2.5 V Diesel 7-seater,-1.890402634337904,,True,False,False,False,True,False,True,False,False,False,False
+Mahindra XUV500 W6 2WD,0.007601071418739302,0.362617862352788,True,False,False,False,False,False,True,False,False,False,False
+Maruti Swift ZXI Plus,1.6683543139558021,-1.3515879873246615,False,False,False,True,True,False,True,False,False,False,False
+Maruti Alto LX,-0.46689985502042153,-0.6931766214468157,False,False,False,True,False,False,True,False,False,False,False
+Tata Indigo LX,-0.9414007814595824,0.878515026132558,True,False,False,False,True,False,True,False,False,False,True
+Hyundai Santro Xing GLS,-0.9414007814595824,-0.8842221129329841,False,False,False,True,False,False,True,False,False,False,False
+Maruti Wagon R VX,-3.076654950435806,0.42187488528179407,False,False,False,True,True,False,True,True,False,False,False
+Mahindra KUV 100 mFALCON G80 K8 5str,0.956602924297061,-0.3321123240299325,False,False,False,True,True,False,True,False,False,False,False
+Volkswagen Vento 1.6 Highline,-0.22964939180084112,0.3427593259948594,False,False,False,True,False,False,True,False,False,False,False
+Fiat Linea T Jet Emotion,-0.704150318240002,,False,False,False,True,True,False,True,False,True,False,False
+Audi A4 3.0 TDI Quattro,0.007601071418739302,0.36877719448519364,False,False,False,False,False,False,False,False,False,False,False
+Mahindra Jeep CL 500 MDI,-3.7884063400945474,1.09090578931896,True,False,False,False,True,False,True,False,False,False,True
+Maruti Swift Dzire VDI,0.007601071418739302,-0.7823807419851044,True,False,False,False,False,False,True,False,False,False,False
+Mahindra Scorpio S11 BSIV,1.1938533875166413,-0.7144156977654559,True,False,False,False,True,False,True,False,False,False,False
+Renault Duster Petrol RxL,0.007601071418739302,0.6661242629461562,False,False,False,True,True,False,True,False,True,False,False
+Hyundai Grand i10 1.2 CRDi Sportz Option,0.956602924297061,-0.8842221129329841,True,False,False,False,False,False,True,False,False,False,False
+Mahindra Bolero SLX,-0.46689985502042153,1.5156873156917636,True,False,False,False,True,False,True,False,False,False,False
+Nissan Sunny Diesel XV,-0.22964939180084112,2.152859605250969,True,False,False,False,True,False,True,False,False,False,False
+Maruti Zen LXI,-1.890402634337904,0.45373349975975436,False,False,False,True,True,False,True,False,True,False,False
+Honda Mobilio E i DTEC,0.956602924297061,1.0059494840443992,True,False,False,False,True,False,True,False,False,False,False
+Ford Figo 1.2P Titanium MT,1.4311038507362217,-1.190468354371457,False,False,False,True,False,False,True,False,False,False,False
+Hyundai Creta 1.4 CRDi S Plus,0.7193524610774805,0.45373349975975436,True,False,False,False,True,False,True,False,True,False,False
+Tata Hexa XM,1.1938533875166413,-1.0967190715009791,True,False,False,False,True,False,True,False,False,False,False
+Maruti Swift VDI,0.007601071418739302,0.45373349975975436,True,False,False,False,True,False,True,False,False,False,False
+Hyundai i20 1.4 Magna ABS,-0.9414007814595824,-0.18343878979945122,True,False,False,False,True,False,True,False,True,False,False
+Chevrolet Aveo U-VA 1.2 LT WO ABS Airbag,-0.9414007814595824,-0.6400789306502153,False,False,False,True,True,False,True,False,True,False,False
+Ford Ecosport 1.0 Ecoboost Platinum Edition BSIV,0.007601071418739302,-0.4842053495477149,False,False,False,True,False,False,True,False,False,False,False
+Maruti Alto 800 VXI,0.956602924297061,-0.3958295529858531,False,False,False,True,True,False,True,False,False,False,False
+Maruti Wagon R VXI BS IV,-0.22964939180084112,0.45373349975975436,False,False,False,True,True,False,True,False,False,False,False
+Hyundai Creta 1.6 CRDi SX Plus,1.1938533875166413,-0.8206110793586568,True,False,False,False,True,False,True,False,False,False,False
+Chevrolet Optra 1.6,-1.6531521711183237,0.2201036602547123,False,False,False,True,False,False,True,True,False,False,False
+Mercedes-Benz New C-Class C 220 CDI BE Avantgare,0.007601071418739302,-1.1391972241382595,True,False,False,False,True,False,False,False,False,False,False
+Hyundai Getz 1.5 CRDi GVS,-1.1786512446791628,,True,False,False,False,False,False,True,False,False,False,False
+Hyundai Tucson CRDi,-1.6531521711183237,2.152859605250969,True,False,False,False,True,False,True,False,False,False,False
+Renault Captur 1.5 Diesel RXT,0.956602924297061,-1.1710558386162198,True,False,False,False,True,False,True,False,False,False,False
+Audi A4 1.8 TFSI,-0.22964939180084112,-0.18343878979945122,False,False,False,True,True,False,False,False,False,False,True
+Maruti Wagon R VXI BS IV,0.48210199785790014,-0.3958295529858531,False,False,False,True,True,False,True,False,True,False,False
+Ford Fiesta Classic 1.4 Duratorq CLXI,-0.46689985502042153,2.4926848263492123,True,False,False,False,True,False,True,False,True,False,False
+Volkswagen Polo Diesel Trendline 1.2L,-0.46689985502042153,0.45373349975975436,True,False,False,False,True,False,True,False,False,False,True
+Maruti Wagon R LXI DUO BSIII,-0.9414007814595824,-0.18343878979945122,False,False,True,False,True,False,True,False,True,False,False
